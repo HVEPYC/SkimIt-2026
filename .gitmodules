@@ -1,0 +1,3 @@
+[submodule "runner/third_party/dynarmic"]
+	path = runner/third_party/dynarmic
+	url = https://github.com/azahar-emu/dynarmic.git

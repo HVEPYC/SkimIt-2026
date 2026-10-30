@@ -1,0 +1,19 @@
+# Plan documents
+plans/
+
+# Locally bootstrapped tools
+tools/
+
+# Extracted / decompiled game data and build outputs (never committed)
+work/
+out/
+*.apk
+
+# Signing keys
+*.keystore
+*.jks
+
+# Build output
+runner/build/
+runner/build-*.log
+CLAUDE.local.md
